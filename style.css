@@ -13,7 +13,7 @@
   background: black; 
 }
 ::-webkit-scrollbar-thumb {
-  background: white; 
+  background: #ff4500; 
 }
 
 { cursor: none;
